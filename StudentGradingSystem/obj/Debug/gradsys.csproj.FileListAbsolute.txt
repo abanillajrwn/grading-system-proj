@@ -1,0 +1,70 @@
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\bin\Debug\gradsys.exe
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\bin\Debug\gradsys.pdb
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\bin\Debug\gradsys.xml
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\Grading_System.Form1.resources
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\gradsys.exe
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\gradsys.pdb
+F:\Sem.4\C# Projects\Trials\gradingsystem\bin\Debug\gradsys.exe
+F:\Sem.4\C# Projects\Trials\gradingsystem\bin\Debug\gradsys.pdb
+F:\Sem.4\C# Projects\Trials\gradingsystem\bin\Debug\gradsys.xml
+F:\Sem.4\C# Projects\Trials\gradingsystem\obj\Debug\Grading_System.Form1.resources
+F:\Sem.4\C# Projects\Trials\gradingsystem\obj\Debug\Grading_System.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\gradingsystem\obj\Debug\gradsys.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\gradingsystem\obj\Debug\gradsys.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\gradingsystem\obj\Debug\gradsys.exe
+F:\Sem.4\C# Projects\Trials\gradingsystem\obj\Debug\gradsys.pdb
+F:\Sem.4\C# Projects\gradingsystem\bin\Debug\gradsys.exe
+F:\Sem.4\C# Projects\gradingsystem\bin\Debug\gradsys.pdb
+F:\Sem.4\C# Projects\gradingsystem\bin\Debug\gradsys.xml
+F:\Sem.4\C# Projects\gradingsystem\obj\Debug\Grading_System.Form1.resources
+F:\Sem.4\C# Projects\gradingsystem\obj\Debug\Grading_System.Properties.Resources.resources
+F:\Sem.4\C# Projects\gradingsystem\obj\Debug\gradsys.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\gradingsystem\obj\Debug\gradsys.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\gradingsystem\obj\Debug\gradsys.exe
+F:\Sem.4\C# Projects\gradingsystem\obj\Debug\gradsys.pdb
+F:\Sem.4\C# Projects\gradingsystem\obj\Debug\gradsys.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.exe
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.pdb
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\bin\Debug\gradsys.exe
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\bin\Debug\gradsys.pdb
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\bin\Debug\gradsys.xml
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\Grading_System.Form1.resources
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\Admin\Documents\ITSOURCECODE\GRADNG C#\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StudentGradingSystem\obj\Debug\gradsys.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StudentGradingSystem\obj\Debug\gradsys.pdb
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\bin\Debug\gradsys.exe.config
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\bin\Debug\gradsys.exe
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\bin\Debug\gradsys.pdb
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\bin\Debug\gradsys.xml
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\obj\Debug\gradsys.csproj.AssemblyReference.cache
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\obj\Debug\gradsys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\obj\Debug\Grading_System.Form1.resources
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\obj\Debug\gradsys.csproj.GenerateResource.cache
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\obj\Debug\gradsys.csproj.CoreCompileInputs.cache
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\obj\Debug\gradsys.exe
+C:\Users\Arron\Desktop\ITCproj\Student-Grading-System-C-sharp-with-Source-Code\StudentGradingSystem\obj\Debug\gradsys.pdb
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\gradsys.csproj.AssemblyReference.cache
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\gradsys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\gradsys.exe.config
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\Grading_System.Form1.resources
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\gradsys.csproj.GenerateResource.cache
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\gradsys.csproj.CoreCompileInputs.cache
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\gradsys.exe
+C:\Users\Arron\Downloads\ITCproj\StudentGradingSystem\obj\Debug\gradsys.pdb
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\gradsys.csproj.AssemblyReference.cache
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\gradsys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\gradsys.exe.config
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\Grading_System.Form1.resources
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\gradsys.csproj.GenerateResource.cache
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\gradsys.csproj.CoreCompileInputs.cache
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\gradsys.exe
+C:\Users\Arron\Desktop\ITCproj\StudentGradingSystem\obj\Debug\gradsys.pdb
